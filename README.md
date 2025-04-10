@@ -21,7 +21,8 @@ The task is to build a quoting engine that:
   ```bash
   pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
   ```
-```
+  
+---
 
 
 ## File Structure
