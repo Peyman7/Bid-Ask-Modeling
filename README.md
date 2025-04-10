@@ -23,7 +23,6 @@ The task is to build a quoting engine that:
   ```
 ```
 
----
 
 ## File Structure
 
