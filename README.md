@@ -21,13 +21,13 @@ The task is to build a quoting engine that:
   ```bash
   pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
   ```
-  
+
 ---
 
 
 ## File Structure
 
-- `FX_Quoting_Model.ipynb` – Main notebook with:
+- `./notebooks/FX_Quoting_Model.ipynb` – Main notebook with:
   - Loading Data
   - Exploratory Data Analysis
   - Trend Analytics
@@ -36,7 +36,8 @@ The task is to build a quoting engine that:
   - Model training (bid and ask)
   - Hybrid model generation
   - Evaluation metrics and plots
-- `trade_data.parquet` – Synthetic trade data for bonus inventory analysis
+- `./data/lp_quotes/*.parquet` – dataset of bid/ask quotes at different martket days
+- `./data/trade_data/trade_data.parquet` – Synthetic trade data for bonus inventory analysis
 
 ---
 
