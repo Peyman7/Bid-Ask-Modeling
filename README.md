@@ -19,7 +19,7 @@ The task is to build a quoting engine that:
 - **Platform:** Jupyter Notebook
 - **Libraries used:**
   ```bash
-  pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
+  pip install pandas numpy matplotlib seaborn scikit-learn lightgbm pyarrow scipy
   ```
 
 ---
